@@ -7,7 +7,7 @@ def print_touati_logo():
     logo = figlet_format('TOUATI', font='slant')  # You can change 'slant' to any font you prefer
     print(logo)
     print("Auth:")
-    print("Fb: Ayoub Touati")
+    print("Fb: https://web.facebook.com/touati.ayoub02/")
 
 # Display the logo
 print_touati_logo()
